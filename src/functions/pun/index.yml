@@ -1,0 +1,6 @@
+getPun:
+  handler: src/functions/pun/index.default
+  events:
+    - http:
+        path: pun
+        method: get

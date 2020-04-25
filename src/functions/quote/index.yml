@@ -1,0 +1,6 @@
+getQuote:
+  handler: src/functions/quote/index.default
+  events:
+    - http:
+        path: quote
+        method: get
