@@ -15,7 +15,7 @@
     "node": "12.16.1"
   },
   "dependencies": {
-    "aws-sdk": "2.631.0",
+    "aws-sdk": "2.814.0",
     "devpun": "^1.5.0",
     "inspirational-quotes": "^1.0.8"
   },
